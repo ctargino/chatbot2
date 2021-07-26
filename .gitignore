@@ -1,0 +1,4 @@
+.env
+node_modules
+src/configs/yt-config.json
+src/configs/accio-fit-bot-test-vgdb-5879df4b9241.json
